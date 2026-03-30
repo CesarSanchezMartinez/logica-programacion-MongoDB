@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "685f737867e347272167df28"
+  },
+  "idAlmacen": 1,
+  "Inventario": "49"
+},
+{
+  "_id": {
+    "$oid": "685f737867e347272167df29"
+  },
+  "idAlmacen": 2,
+  "Inventario": "24"
+},
+{
+  "_id": {
+    "$oid": "685f737867e347272167df2a"
+  },
+  "idAlmacen": 3,
+  "Inventario": "43"
+},
+{
+  "_id": {
+    "$oid": "685f737867e347272167df2b"
+  },
+  "idAlmacen": 4,
+  "Inventario": "24"
+},
+{
+  "_id": {
+    "$oid": "685f737867e347272167df2c"
+  },
+  "idAlmacen": 5,
+  "Inventario": "34"
+}]

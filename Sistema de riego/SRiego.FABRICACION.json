@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "685f736867e347272167df23"
+  },
+  "idFabricacion": 1,
+  "Diseño": "Visto bueno",
+  "ControlCalidad": "Visto bueno",
+  "CantidadProducto": 12,
+  "FechaProducto": "12/1/2025",
+  "Ensamblaje": "Visto bueno"
+},
+{
+  "_id": {
+    "$oid": "685f736867e347272167df24"
+  },
+  "idFabricacion": 2,
+  "Diseño": "Visto bueno",
+  "ControlCalidad": "Visto bueno",
+  "CantidadProducto": 19,
+  "FechaProducto": "12/2/2025",
+  "Ensamblaje": "Visto bueno"
+},
+{
+  "_id": {
+    "$oid": "685f736867e347272167df25"
+  },
+  "idFabricacion": 3,
+  "Diseño": "Visto bueno",
+  "ControlCalidad": "Visto bueno",
+  "CantidadProducto": 10,
+  "FechaProducto": "12/3/2025",
+  "Ensamblaje": "Visto bueno"
+},
+{
+  "_id": {
+    "$oid": "685f736867e347272167df26"
+  },
+  "idFabricacion": 4,
+  "Diseño": "Visto bueno",
+  "ControlCalidad": "Visto bueno",
+  "CantidadProducto": 20,
+  "FechaProducto": "13/4/2025",
+  "Ensamblaje": "Visto bueno"
+},
+{
+  "_id": {
+    "$oid": "685f736867e347272167df27"
+  },
+  "idFabricacion": 5,
+  "Diseño": "Visto bueno",
+  "ControlCalidad": "Visto bueno",
+  "CantidadProducto": 24,
+  "FechaProducto": "12/5/2025",
+  "Ensamblaje": "Visto bueno"
+}]

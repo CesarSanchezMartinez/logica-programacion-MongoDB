@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "685f7e0867e347272167df4b"
+  },
+  "idContabilidad": 1,
+  "PrecioProducto": "150.00",
+  "AnalisisVentas": "Sobresaliente"
+},
+{
+  "_id": {
+    "$oid": "685f7e0867e347272167df4c"
+  },
+  "idContabilidad": 2,
+  "PrecioProducto": "150.00",
+  "AnalisisVentas": "Sobresaliente"
+},
+{
+  "_id": {
+    "$oid": "685f7e0867e347272167df4d"
+  },
+  "idContabilidad": 3,
+  "PrecioProducto": "150.00",
+  "AnalisisVentas": "Sobresaliente"
+},
+{
+  "_id": {
+    "$oid": "685f7e0867e347272167df4e"
+  },
+  "idContabilidad": 4,
+  "PrecioProducto": "150.00",
+  "AnalisisVentas": "Decente"
+},
+{
+  "_id": {
+    "$oid": "685f7e0867e347272167df4f"
+  },
+  "idContabilidad": 5,
+  "PrecioProducto": "160.00",
+  "AnalisisVentas": "Sobresaliente"
+}]

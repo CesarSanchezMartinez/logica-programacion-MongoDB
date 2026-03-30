@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "685f74eb67e347272167df32"
+  },
+  "idDistribucion": 1,
+  "Entregas": "1",
+  "CantidadProductoSolicitado": "10"
+},
+{
+  "_id": {
+    "$oid": "685f74eb67e347272167df33"
+  },
+  "idDistribucion": 2,
+  "Entregas": "2",
+  "CantidadProductoSolicitado": "10"
+},
+{
+  "_id": {
+    "$oid": "685f74eb67e347272167df34"
+  },
+  "idDistribucion": 3,
+  "Entregas": "1",
+  "CantidadProductoSolicitado": "10"
+},
+{
+  "_id": {
+    "$oid": "685f74eb67e347272167df35"
+  },
+  "idDistribucion": 4,
+  "Entregas": "1",
+  "CantidadProductoSolicitado": "10"
+},
+{
+  "_id": {
+    "$oid": "685f74eb67e347272167df36"
+  },
+  "idDistribucion": 5,
+  "Entregas": "2",
+  "CantidadProductoSolicitado": "8"
+}]

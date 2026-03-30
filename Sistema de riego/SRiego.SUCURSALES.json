@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "685f78a967e347272167df41"
+  },
+  "idSucursales": 1,
+  "ProductoExistencia": "15"
+},
+{
+  "_id": {
+    "$oid": "685f78a967e347272167df42"
+  },
+  "idSucursales": 2,
+  "ProductoExistencia": "14"
+},
+{
+  "_id": {
+    "$oid": "685f78a967e347272167df43"
+  },
+  "idSucursales": 3,
+  "ProductoExistencia": "22"
+},
+{
+  "_id": {
+    "$oid": "685f78a967e347272167df44"
+  },
+  "idSucursales": 4,
+  "ProductoExistencia": "9"
+},
+{
+  "_id": {
+    "$oid": "685f78a967e347272167df45"
+  },
+  "idSucursales": 5,
+  "ProductoExistencia": "10"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "685f77b467e347272167df3c"
+  },
+  "idMantenimiento": 1,
+  "AtencionCliente": "Si",
+  "Tecnicos": "5"
+},
+{
+  "_id": {
+    "$oid": "685f77b467e347272167df3d"
+  },
+  "idMantenimiento": 2,
+  "AtencionCliente": "Si",
+  "Tecnicos": "5"
+},
+{
+  "_id": {
+    "$oid": "685f77b467e347272167df3e"
+  },
+  "idMantenimiento": 3,
+  "AtencionCliente": "Si",
+  "Tecnicos": "5"
+},
+{
+  "_id": {
+    "$oid": "685f77b467e347272167df3f"
+  },
+  "idMantenimiento": 4,
+  "AtencionCliente": "Si",
+  "Tecnicos": "3"
+},
+{
+  "_id": {
+    "$oid": "685f77b467e347272167df40"
+  },
+  "idMantenimiento": 5,
+  "AtencionCliente": "Si",
+  "Tecnicos": "5"
+}]

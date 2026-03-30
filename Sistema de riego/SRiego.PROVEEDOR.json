@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "685f7c7867e347272167df46"
+  },
+  "idProveedor": 1,
+  "MateriaPrima": "Plastico"
+},
+{
+  "_id": {
+    "$oid": "685f7c7867e347272167df47"
+  },
+  "idProveedor": 2,
+  "MateriaPrima": "Metal"
+},
+{
+  "_id": {
+    "$oid": "685f7c7867e347272167df48"
+  },
+  "idProveedor": 3,
+  "MateriaPrima": "Silicio"
+},
+{
+  "_id": {
+    "$oid": "685f7c7867e347272167df49"
+  },
+  "idProveedor": 4,
+  "MateriaPrima": "Caucho"
+},
+{
+  "_id": {
+    "$oid": "685f7c7867e347272167df4a"
+  },
+  "idProveedor": 5,
+  "MateriaPrima": "Arena"
+}]
