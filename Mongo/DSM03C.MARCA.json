@@ -1,0 +1,72 @@
+[{
+  "_id": 2,
+  "Nombre": "Apple"
+},
+{
+  "_id": 3,
+  "Nombre": "Sony"
+},
+{
+  "_id": 4,
+  "Nombre": "Xiaomi"
+},
+{
+  "_id": 5,
+  "Nombre": "Huawei"
+},
+{
+  "_id": 6,
+  "Nombre": "Motorola"
+},
+{
+  "_id": 7,
+  "Nombre": "Honor"
+},
+{
+  "_id": 8,
+  "Nombre": "LG"
+},
+{
+  "_id": 9,
+  "Nombre": "Nokia"
+},
+{
+  "_id": 10,
+  "Nombre": "Lenovo"
+},
+{
+  "_id": 11,
+  "Nombre": "ZTE"
+},
+{
+  "_id": 12,
+  "Nombre": "Asus"
+},
+{
+  "_id": 13,
+  "Nombre": "Blu"
+},
+{
+  "_id": 15,
+  "Nombre": "1HTC"
+},
+{
+  "_id": 16,
+  "Nombre": "Hyundai"
+},
+{
+  "_id": 17,
+  "Nombre": "Black berry"
+},
+{
+  "_id": 18,
+  "Nombre": "Alcatel"
+},
+{
+  "_id": 19,
+  "Nombre": "Bmobile"
+},
+{
+  "_id": 20,
+  "Nombre": "Epik"
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "Nombre": "Ventas"
+},
+{
+  "_id": 2,
+  "Nombre": "Soporte"
+},
+{
+  "_id": 3,
+  "Nombre": "Recursos Humanos"
+},
+{
+  "_id": 4,
+  "Nombre": "Finanzas"
+},
+{
+  "_id": 5,
+  "Nombre": "Marketing"
+},
+{
+  "_id": 6,
+  "Nombre": "Logística"
+},
+{
+  "_id": 7,
+  "Nombre": "Tecnología de la Información"
+},
+{
+  "_id": 8,
+  "Nombre": "Calidad"
+},
+{
+  "_id": 9,
+  "Nombre": "Compras"
+},
+{
+  "_id": 10,
+  "Nombre": "Adminsitración"
+},
+{
+  "_id": 11,
+  "Nombre": "Legal"
+},
+{
+  "_id": 12,
+  "Nombre": "Investigación y Desarrollo"
+}]

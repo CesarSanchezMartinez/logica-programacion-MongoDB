@@ -1,0 +1,72 @@
+[{
+  "_id": 1,
+  "Estado": "California",
+  "Pais": "EE.UU.",
+  "Continente": "America"
+},
+{
+  "_id": 2,
+  "Estado": "Tokio",
+  "Pais": "Japón",
+  "Continente": "Asia"
+},
+{
+  "_id": 3,
+  "Estado": "Ontario",
+  "Pais": "Canada",
+  "Continente": "America"
+},
+{
+  "_id": 4,
+  "Estado": "Bobota",
+  "Pais": "Peru",
+  "Continente": "America"
+},
+{
+  "_id": 5,
+  "Estado": "Santiago",
+  "Pais": "Chile",
+  "Continente": "America"
+},
+{
+  "_id": 6,
+  "Estado": "Dubai",
+  "Pais": "Emiratos arabes",
+  "Continente": "Asia"
+},
+{
+  "_id": 7,
+  "Estado": "CDMX",
+  "Pais": "Mexico",
+  "Continente": "America"
+},
+{
+  "_id": 8,
+  "Estado": "Buenos Aires",
+  "Pais": "Argentina",
+  "Continente": "America"
+},
+{
+  "_id": 9,
+  "Estado": "Cataluña",
+  "Pais": "España",
+  "Continente": "Europa"
+},
+{
+  "_id": 10,
+  "Estado": "Managua",
+  "Pais": "Nicaragua",
+  "Continente": "America"
+},
+{
+  "_id": 11,
+  "Estado": "Sao paulo",
+  "Pais": "Brasil",
+  "Continente": "America"
+},
+{
+  "_id": 12,
+  "Estado": "Paris",
+  "Pais": "Francia",
+  "Continente": "Europa"
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": 1,
+  "Nombre": "Soltero"
+},
+{
+  "_id": 2,
+  "Nombre": "Casado"
+},
+{
+  "_id": 3,
+  "Nombre": "Viudo"
+},
+{
+  "_id": 4,
+  "Nombre": "Divorciado"
+},
+{
+  "_id": 5,
+  "Nombre": "Unión Libre"
+}]

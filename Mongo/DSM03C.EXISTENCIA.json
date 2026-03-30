@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "Nombre": "Disponible",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 2,
+  "Nombre": "Agotado",
+  "Detalle": "Sin unidades"
+},
+{
+  "_id": 3,
+  "Nombre": "Proximamente",
+  "Detalle": "Almacenado"
+},
+{
+  "_id": 4,
+  "Nombre": "Moda",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 5,
+  "Nombre": "Tradicional",
+  "Detalle": "Sin unidades"
+},
+{
+  "_id": 6,
+  "Nombre": "Importación",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 7,
+  "Nombre": "Clón",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 8,
+  "Nombre": "Sin Inventariar",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 9,
+  "Nombre": "Moda",
+  "Detalle": "Sin unidades"
+},
+{
+  "_id": 10,
+  "Nombre": "Proximamente",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 11,
+  "Nombre": "Tradicional",
+  "Detalle": "Producto en stock"
+},
+{
+  "_id": 12,
+  "Nombre": "Importación",
+  "Detalle": "Sin unidades"
+}]

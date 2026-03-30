@@ -1,0 +1,255 @@
+[{
+  "_id": 1,
+  "Nombre": "Smartphone Galaxy",
+  "Marca": {
+    "_id": 1
+  },
+  "Presentacion": {
+    "_id": 1
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 12000
+},
+{
+  "_id": 2,
+  "Nombre": "iPhone 13",
+  "Marca": {
+    "_id": 2
+  },
+  "Presentacion": {
+    "_id": 1
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 2
+  },
+  "Precio": 20000
+},
+{
+  "_id": 3,
+  "Nombre": "Audífonos Sony",
+  "Marca": {
+    "_id": 3
+  },
+  "Presentacion": {
+    "_id": 2
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 3
+  },
+  "Precio": 3000
+},
+{
+  "_id": 4,
+  "Nombre": "Laptop Dell",
+  "Marca": {
+    "_id": 4
+  },
+  "Presentacion": {
+    "_id": 1
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 15000
+},
+{
+  "_id": 5,
+  "Nombre": "Tablet iPad",
+  "Marca": {
+    "_id": 5
+  },
+  "Presentacion": {
+    "_id": 1
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 9000
+},
+{
+  "_id": 6,
+  "Nombre": "Monitor Samsung",
+  "Marca": {
+    "_id": 6
+  },
+  "Presentacion": {
+    "_id": 2
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 3
+  },
+  "Precio": 4500
+},
+{
+  "_id": 7,
+  "Nombre": "Teclado Mecánico",
+  "Marca": {
+    "_id": 7
+  },
+  "Presentacion": {
+    "_id": 3
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 1200
+},
+{
+  "_id": 8,
+  "Nombre": "Mouse Inalámbrico",
+  "Marca": {
+    "_id": 8
+  },
+  "Presentacion": {
+    "_id": 3
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 800
+},
+{
+  "_id": 9,
+  "Nombre": "Smartwatch Fitbit",
+  "Marca": {
+    "_id": 9
+  },
+  "Presentacion": {
+    "_id": 1
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 2
+  },
+  "Precio": 3500
+},
+{
+  "_id": 10,
+  "Nombre": "Cámara GoPro",
+  "Marca": {
+    "_id": 10
+  },
+  "Presentacion": {
+    "_id": 2
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 7000
+},
+{
+  "_id": 11,
+  "Nombre": "Router TP-Link",
+  "Marca": {
+    "_id": 11
+  },
+  "Presentacion": {
+    "_id": 3
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 1800
+},
+{
+  "_id": 12,
+  "Nombre": "Disco Duro Seagate",
+  "Marca": {
+    "_id": 12
+  },
+  "Presentacion": {
+    "_id": 2
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 5
+  },
+  "Precio": 2500
+},
+{
+  "_id": 13,
+  "Nombre": "Impresora HP",
+  "Marca": {
+    "_id": 13
+  },
+  "Presentacion": {
+    "_id": 3
+  },
+  "Origen": {
+    "_id": 2
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 3200
+},
+{
+  "_id": 14,
+  "Nombre": "Altavoz JBL",
+  "Marca": {
+    "_id": 4
+  },
+  "Presentacion": {
+    "_id": 2
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 1
+  },
+  "Precio": 2700
+},
+{
+  "_id": 15,
+  "Nombre": "Tablet Samsung Galaxy",
+  "Marca": {
+    "_id": 15
+  },
+  "Presentacion": {
+    "_id": 1
+  },
+  "Origen": {
+    "_id": 1
+  },
+  "Existencia": {
+    "_id": 2
+  },
+  "Precio": 11000
+}]

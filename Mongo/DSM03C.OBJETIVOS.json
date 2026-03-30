@@ -1,0 +1,168 @@
+[{
+  "_id": 1,
+  "IdEmpleado": 1,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 100000
+},
+{
+  "_id": 7,
+  "IdEmpleado": 2,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 200000
+},
+{
+  "_id": 2,
+  "IdEmpleado": 1,
+  "Mes": "Agosto",
+  "Año": 2025,
+  "Meta": 120000
+},
+{
+  "_id": 8,
+  "IdEmpleado": 2,
+  "Mes": "Agosto",
+  "Año": 2025,
+  "Meta": 210000
+},
+{
+  "_id": 3,
+  "IdEmpleado": 3,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 110000
+},
+{
+  "_id": 9,
+  "IdEmpleado": 4,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 150000
+},
+{
+  "_id": 4,
+  "IdEmpleado": 3,
+  "Mes": "Agosto",
+  "Año": 2025,
+  "Meta": 190000
+},
+{
+  "_id": 10,
+  "IdEmpleado": 4,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 100000
+},
+{
+  "_id": 5,
+  "IdEmpleado": 1,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 170000
+},
+{
+  "_id": 11,
+  "IdEmpleado": 3,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 200000
+},
+{
+  "_id": 6,
+  "IdEmpleado": 2,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 130000
+},
+{
+  "_id": 12,
+  "IdEmpleado": 4,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 140000
+},
+{
+  "_id": 13,
+  "IdEmpleado": 5,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 100000
+},
+{
+  "_id": 19,
+  "IdEmpleado": 6,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 200000
+},
+{
+  "_id": 14,
+  "IdEmpleado": 5,
+  "Mes": "Agosto",
+  "Año": 2025,
+  "Meta": 120000
+},
+{
+  "_id": 20,
+  "IdEmpleado": 6,
+  "Mes": "Agosto",
+  "Año": 2025,
+  "Meta": 210000
+},
+{
+  "_id": 15,
+  "IdEmpleado": 7,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 110000
+},
+{
+  "_id": 21,
+  "IdEmpleado": 8,
+  "Mes": "Julio",
+  "Año": 2025,
+  "Meta": 150000
+},
+{
+  "_id": 16,
+  "IdEmpleado": 7,
+  "Mes": "Agosto",
+  "Año": 2025,
+  "Meta": 190000
+},
+{
+  "_id": 22,
+  "IdEmpleado": 8,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 100000
+},
+{
+  "_id": 17,
+  "IdEmpleado": 5,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 170000
+},
+{
+  "_id": 23,
+  "IdEmpleado": 7,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 200000
+},
+{
+  "_id": 18,
+  "IdEmpleado": 6,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 130000
+},
+{
+  "_id": 24,
+  "IdEmpleado": 8,
+  "Mes": "Septiembre",
+  "Año": 2025,
+  "Meta": 140000
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "Nombre": "Asesor"
+},
+{
+  "_id": 2,
+  "Nombre": "Gerente"
+},
+{
+  "_id": 3,
+  "Nombre": "Vendedor"
+},
+{
+  "_id": 4,
+  "Nombre": "Cobranza"
+},
+{
+  "_id": 5,
+  "Nombre": "Atención al Cliente"
+},
+{
+  "_id": 6,
+  "Nombre": "Analista de Datos"
+},
+{
+  "_id": 7,
+  "Nombre": "Coordinador de Proyecto"
+},
+{
+  "_id": 8,
+  "Nombre": "Técnico de Soporte"
+},
+{
+  "_id": 9,
+  "Nombre": "Especialista en Marketing"
+},
+{
+  "_id": 10,
+  "Nombre": "Representante de Ventas"
+},
+{
+  "_id": 11,
+  "Nombre": "Jefe de Compras"
+},
+{
+  "_id": 12,
+  "Nombre": "Asistente Administrativo"
+}]

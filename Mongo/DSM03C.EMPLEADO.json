@@ -1,0 +1,532 @@
+[{
+  "_id": 1,
+  "Nombre": "Luis",
+  "ApellidoPaterno": "Pérez",
+  "ApellidoMaterno": "Ramírez",
+  "Departamento": {
+    "_id": 1
+  },
+  "Puesto": {
+    "_id": 1
+  },
+  "Sueldo": 8000,
+  "Sucursal": {
+    "_id": 2
+  },
+  "FechaIngreso": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 1
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Calle A",
+  "Municipio": "Monterrey",
+  "Estado": "Nuevo León"
+},
+{
+  "_id": 2,
+  "Nombre": "Ana",
+  "ApellidoPaterno": "Gómez",
+  "ApellidoMaterno": "Soto",
+  "Departamento": {
+    "_id": 1
+  },
+  "Puesto": {
+    "_id": 2
+  },
+  "Sueldo": 15000,
+  "Sucursal": {
+    "_id": 3
+  },
+  "FechaIngreso": {
+    "$date": "2021-07-01T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 2
+  },
+  "Genero": {
+    "_id": 2
+  },
+  "Direccion": "Calle B",
+  "Municipio": "Guadalajara",
+  "Estado": "Jalisco"
+},
+{
+  "_id": 3,
+  "Nombre": "Carlos",
+  "ApellidoPaterno": "López",
+  "ApellidoMaterno": "Méndez",
+  "Departamento": {
+    "_id": 2
+  },
+  "Puesto": {
+    "_id": 1
+  },
+  "Sueldo": 9000,
+  "Sucursal": {
+    "_id": 2
+  },
+  "FechaIngreso": {
+    "$date": "2020-03-20T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 3
+  },
+  "Genero": {
+    "_id": 3
+  },
+  "Direccion": "Av. Central",
+  "Municipio": "Puebla",
+  "Estado": "Puebla"
+},
+{
+  "_id": 4,
+  "Nombre": "María",
+  "ApellidoPaterno": "Fernández",
+  "ApellidoMaterno": "Díaz",
+  "Departamento": {
+    "_id": 2
+  },
+  "Puesto": {
+    "_id": 2
+  },
+  "Sueldo": 14000,
+  "Sucursal": {
+    "_id": 4
+  },
+  "FechaIngreso": {
+    "$date": "2019-11-05T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 4
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Calle C",
+  "Municipio": "Querétaro",
+  "Estado": "Querétaro"
+},
+{
+  "_id": 5,
+  "Nombre": "Jorge",
+  "ApellidoPaterno": "Ramírez",
+  "ApellidoMaterno": "Vargas",
+  "Departamento": {
+    "_id": 3
+  },
+  "Puesto": {
+    "_id": 1
+  },
+  "Sueldo": 8500,
+  "Sucursal": {
+    "_id": 1
+  },
+  "FechaIngreso": {
+    "$date": "2023-02-12T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 5
+  },
+  "Genero": {
+    "_id": 2
+  },
+  "Direccion": "Av. Libertad",
+  "Municipio": "Toluca",
+  "Estado": "Estado de México"
+},
+{
+  "_id": 6,
+  "Nombre": "Sofía",
+  "ApellidoPaterno": "Mendoza",
+  "ApellidoMaterno": "Ruiz",
+  "Departamento": {
+    "_id": 3
+  },
+  "Puesto": {
+    "_id": 2
+  },
+  "Sueldo": 15500,
+  "Sucursal": {
+    "_id": 5
+  },
+  "FechaIngreso": {
+    "$date": "2021-08-30T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 1
+  },
+  "Genero": {
+    "_id": 3
+  },
+  "Direccion": "Calle D",
+  "Municipio": "León",
+  "Estado": "Guanajuato"
+},
+{
+  "_id": 7,
+  "Nombre": "Andrés",
+  "ApellidoPaterno": "Castillo",
+  "ApellidoMaterno": "Navarro",
+  "Departamento": {
+    "_id": 4
+  },
+  "Puesto": {
+    "_id": 3
+  },
+  "Sueldo": 8700,
+  "Sucursal": {
+    "_id": 1
+  },
+  "FechaIngreso": {
+    "$date": "2022-05-10T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 2
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Av. Reforma",
+  "Municipio": "Monterrey",
+  "Estado": "Nuevo León"
+},
+{
+  "_id": 8,
+  "Nombre": "Gabriela",
+  "ApellidoPaterno": "Vega",
+  "ApellidoMaterno": "Sánchez",
+  "Departamento": {
+    "_id": 4
+  },
+  "Puesto": {
+    "_id": 4
+  },
+  "Sueldo": 14500,
+  "Sucursal": {
+    "_id": 1
+  },
+  "FechaIngreso": {
+    "$date": "2020-09-15T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 3
+  },
+  "Genero": {
+    "_id": 2
+  },
+  "Direccion": "Calle E",
+  "Municipio": "Guadalajara",
+  "Estado": "Jalisco"
+},
+{
+  "_id": 9,
+  "Nombre": "Ricardo",
+  "ApellidoPaterno": "Ortiz",
+  "ApellidoMaterno": "Flores",
+  "Departamento": {
+    "_id": 5
+  },
+  "Puesto": {
+    "_id": 3
+  },
+  "Sueldo": 9200,
+  "Sucursal": {
+    "_id": 2
+  },
+  "FechaIngreso": {
+    "$date": "2019-12-01T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 4
+  },
+  "Genero": {
+    "_id": 3
+  },
+  "Direccion": "Av. Hidalgo",
+  "Municipio": "Puebla",
+  "Estado": "Puebla"
+},
+{
+  "_id": 10,
+  "Nombre": "Paula",
+  "ApellidoPaterno": "Silva",
+  "ApellidoMaterno": "González",
+  "Departamento": {
+    "_id": 5
+  },
+  "Puesto": {
+    "_id": 4
+  },
+  "Sueldo": 14800,
+  "Sucursal": {
+    "_id": 1
+  },
+  "FechaIngreso": {
+    "$date": "2023-03-18T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 5
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Calle F",
+  "Municipio": "Cancún",
+  "Estado": "Quintana Roo"
+},
+{
+  "_id": 11,
+  "Nombre": "Diego",
+  "ApellidoPaterno": "Romero",
+  "ApellidoMaterno": "Jiménez",
+  "Departamento": {
+    "_id": 6
+  },
+  "Puesto": {
+    "_id": 3
+  },
+  "Sueldo": 8800,
+  "Sucursal": {
+    "_id": 2
+  },
+  "FechaIngreso": {
+    "$date": "2021-06-22T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 1
+  },
+  "Genero": {
+    "_id": 2
+  },
+  "Direccion": "Av. Juárez",
+  "Municipio": "Querétaro",
+  "Estado": "Querétaro"
+},
+{
+  "_id": 12,
+  "Nombre": "Natalia",
+  "ApellidoPaterno": "Rivas",
+  "ApellidoMaterno": "Mora",
+  "Departamento": {
+    "_id": 6
+  },
+  "Puesto": {
+    "_id": 4
+  },
+  "Sueldo": 15000,
+  "Sucursal": {
+    "_id": 1
+  },
+  "FechaIngreso": {
+    "$date": "2020-10-09T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 2
+  },
+  "Genero": {
+    "_id": 3
+  },
+  "Direccion": "Calle G",
+  "Municipio": "Toluca",
+  "Estado": "Estado de México"
+},
+{
+  "_id": 13,
+  "Nombre": "Héctor",
+  "ApellidoPaterno": "Salazar",
+  "ApellidoMaterno": "Martínez",
+  "Departamento": {
+    "_id": 1
+  },
+  "Puesto": {
+    "_id": 5
+  },
+  "Sueldo": 8300,
+  "Sucursal": {
+    "_id": 3
+  },
+  "FechaIngreso": {
+    "$date": "2018-04-17T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 3
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Av. Morelos",
+  "Municipio": "León",
+  "Estado": "Guanajuato"
+},
+{
+  "_id": 14,
+  "Nombre": "Camila",
+  "ApellidoPaterno": "Duarte",
+  "ApellidoMaterno": "Cruz",
+  "Departamento": {
+    "_id": 2
+  },
+  "Puesto": {
+    "_id": 6
+  },
+  "Sueldo": 15200,
+  "Sucursal": {
+    "_id": 1
+  },
+  "FechaIngreso": {
+    "$date": "2022-07-27T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 4
+  },
+  "Genero": {
+    "_id": 2
+  },
+  "Direccion": "Calle H",
+  "Municipio": "Monterrey",
+  "Estado": "Nuevo León"
+},
+{
+  "_id": 15,
+  "Nombre": "Fernando",
+  "ApellidoPaterno": "Márquez",
+  "ApellidoMaterno": "Vela",
+  "Departamento": {
+    "_id": 3
+  },
+  "Puesto": {
+    "_id": 5
+  },
+  "Sueldo": 8900,
+  "Sucursal": {
+    "_id": 5
+  },
+  "FechaIngreso": {
+    "$date": "2019-01-11T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 5
+  },
+  "Genero": {
+    "_id": 3
+  },
+  "Direccion": "Av. Niños Héroes",
+  "Municipio": "Guadalajara",
+  "Estado": "Jalisco"
+},
+{
+  "_id": 16,
+  "Nombre": "José",
+  "ApellidoPaterno": "Pérez",
+  "ApellidoMaterno": "Ramírez",
+  "Departamento": {
+    "_id": 4
+  },
+  "Puesto": {
+    "_id": 7
+  },
+  "Sueldo": 8000,
+  "Sucursal": {
+    "_id": 2
+  },
+  "FechaIngreso": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 1
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Calle A",
+  "Municipio": "Monterrey",
+  "Estado": "Nuevo León"
+},
+{
+  "_id": 17,
+  "Nombre": "Ana María",
+  "ApellidoPaterno": "Gómez",
+  "ApellidoMaterno": "Saldivar",
+  "Departamento": {
+    "_id": 7
+  },
+  "Puesto": {
+    "_id": 6
+  },
+  "Sueldo": 15000,
+  "Sucursal": {
+    "_id": 3
+  },
+  "FechaIngreso": {
+    "$date": "2021-07-01T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 2
+  },
+  "Genero": {
+    "_id": 2
+  },
+  "Direccion": "Calle B",
+  "Municipio": "Guadalajara",
+  "Estado": "Jalisco"
+},
+{
+  "_id": 18,
+  "Nombre": "Héctor",
+  "ApellidoPaterno": "López",
+  "ApellidoMaterno": "Moncada",
+  "Departamento": {
+    "_id": 8
+  },
+  "Puesto": {
+    "_id": 8
+  },
+  "Sueldo": 9000,
+  "Sucursal": {
+    "_id": 2
+  },
+  "FechaIngreso": {
+    "$date": "2020-03-20T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 3
+  },
+  "Genero": {
+    "_id": 3
+  },
+  "Direccion": "Av. Central",
+  "Municipio": "Puebla",
+  "Estado": "Puebla"
+},
+{
+  "_id": 19,
+  "Nombre": "Pilar",
+  "ApellidoPaterno": "Fernández",
+  "ApellidoMaterno": "Duran",
+  "Departamento": {
+    "_id": 9
+  },
+  "Puesto": {
+    "_id": 8
+  },
+  "Sueldo": 14000,
+  "Sucursal": {
+    "_id": 4
+  },
+  "FechaIngreso": {
+    "$date": "2019-11-05T00:00:00.000Z"
+  },
+  "EstadoCivil": {
+    "_id": 4
+  },
+  "Genero": {
+    "_id": 1
+  },
+  "Direccion": "Calle C",
+  "Municipio": "Querétaro",
+  "Estado": "Querétaro"
+}]

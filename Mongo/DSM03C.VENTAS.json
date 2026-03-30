@@ -1,0 +1,50 @@
+[{
+  "_id": 4,
+  "IdArticulo": 1,
+  "IdEmpleado": 16,
+  "IdCliente": 2,
+  "Fecha": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "Cantidad": 4
+},
+{
+  "_id": 14,
+  "IdArticulo": 7,
+  "IdEmpleado": 1,
+  "IdCliente": 3,
+  "Fecha": {
+    "$date": "2025-03-14T00:00:00.000Z"
+  },
+  "Cantidad": 5
+},
+{
+  "_id": 10,
+  "IdArticulo": 2,
+  "IdEmpleado": 3,
+  "IdCliente": 4,
+  "Fecha": {
+    "$date": "2025-05-18T00:00:00.000Z"
+  },
+  "Cantidad": 6
+},
+{
+  "_id": 15,
+  "IdArticulo": 5,
+  "IdEmpleado": 2,
+  "IdCliente": 1,
+  "Fecha": {
+    "$date": "2025-09-20T00:00:00.000Z"
+  },
+  "Cantidad": 4
+},
+{
+  "_id": 19,
+  "IdArticulo": 1,
+  "IdEmpleado": 16,
+  "IdCliente": 2,
+  "Fecha": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "Cantidad": 4
+}]

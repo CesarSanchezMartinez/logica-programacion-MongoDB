@@ -1,0 +1,44 @@
+[{
+  "_id": 1,
+  "Nombre": "Caja"
+},
+{
+  "_id": 2,
+  "Nombre": "Blister"
+},
+{
+  "_id": 3,
+  "Nombre": "Unidad"
+},
+{
+  "_id": 4,
+  "Nombre": "bolsa"
+},
+{
+  "_id": 5,
+  "Nombre": "Topper"
+},
+{
+  "_id": 6,
+  "Nombre": "Fisico"
+},
+{
+  "_id": 7,
+  "Nombre": "Empaquetado"
+},
+{
+  "_id": 8,
+  "Nombre": "burbujas"
+},
+{
+  "_id": 9,
+  "Nombre": "Estuche"
+},
+{
+  "_id": 10,
+  "Nombre": "Carton"
+},
+{
+  "_id": 11,
+  "Nombre": "metal"
+}]

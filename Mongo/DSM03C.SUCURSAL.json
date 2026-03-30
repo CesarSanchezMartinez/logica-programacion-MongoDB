@@ -1,0 +1,75 @@
+[{
+  "_id": 1,
+  "Nombre": "Sucursal Centro",
+  "Direccion": "Av. Reforma 100, CDMX"
+},
+{
+  "_id": 2,
+  "Nombre": "Sucursal Norte",
+  "Direccion": "Calle 10, Monterrey"
+},
+{
+  "_id": 3,
+  "Nombre": "Sucursal Sur",
+  "Direccion": "Blvd. Las Torres, Puebla"
+},
+{
+  "_id": 4,
+  "Nombre": "Sucursal Este",
+  "Direccion": "Av. Insurgentes 200, Guadalajara"
+},
+{
+  "_id": 5,
+  "Nombre": "Sucursal Oeste",
+  "Direccion": "Calle 5, Tijuana"
+},
+{
+  "_id": 6,
+  "Nombre": "Sucursal Norte-2",
+  "Direccion": "Av. Juárez 150, León"
+},
+{
+  "_id": 7,
+  "Nombre": "Sucursal Centro-2",
+  "Direccion": "Paseo de la Reforma 300, CDMX"
+},
+{
+  "_id": 8,
+  "Nombre": "Sucursal Sur-2",
+  "Direccion": "Av. Universidad 400, Cancún"
+},
+{
+  "_id": 9,
+  "Nombre": "Sucursal Metropolitana",
+  "Direccion": "Av. Hidalgo 50, Toluca"
+},
+{
+  "_id": 10,
+  "Nombre": "Sucursal Puente",
+  "Direccion": "Calle 25, Querétaro"
+},
+{
+  "_id": 11,
+  "Nombre": "Sucursal Marina",
+  "Direccion": "Av. del Mar 123, Veracruz"
+},
+{
+  "_id": 12,
+  "Nombre": "Sucursal Industrial",
+  "Direccion": "Calle Fábrica 45, Monterrey"
+},
+{
+  "_id": 13,
+  "Nombre": "Sucursal Jardines",
+  "Direccion": "Av. Las Flores 78, Morelia"
+},
+{
+  "_id": 14,
+  "Nombre": "Sucursal Central Park",
+  "Direccion": "Blvd. Central 22, Guadalajara"
+},
+{
+  "_id": 15,
+  "Nombre": "Sucursal Sol",
+  "Direccion": "Calle Sol 101, Cancún"
+}]
